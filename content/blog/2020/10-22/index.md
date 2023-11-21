@@ -17,7 +17,7 @@ tags:
   - noisetoaster
 ---
 
-{{< img align="left" style="margin: 10px 10px 10px 10px" sizes="(min-width: 35em) 400px, 100vw" src="craque-mod-7.png" alt="" >}}
+{{< figure align="left" width=400 src="craque-mod-7.png" alt="" >}}
 
 ## Why Synth DIY?
 
@@ -35,7 +35,7 @@ Keep reading for a breakdown of the major features and how my experience in DIY 
 
 ### Accommodating case
 
-{{< img align="right" style="margin: 10px 10px 10px 10px" sizes="(min-width: 35em) 300px, 100vw" src="craque-mod-1.png" alt="" >}}
+{{< figure align="right" width=300 src="craque-mod-1.png" alt="" >}}
 
 I keep a lot of containers around for art projects, one of which was this "mini-crate" thing that was originally a vehicle for selling bunches of grapes at the supermarket. We got two of them (the grapes were good afterall) and saved them for projects because the sides have this cool wood-burnt "Willy Wonka and the Chocolate Factory 'Limited Special Edition'" logo and a neat magical top-hat imprint on each end. Yes, this was a marketing gimmick from a horrible re-make of the [original Dahl classic](https://en.wikipedia.org/wiki/Willy_Wonka_%26_the_Chocolate_Factory).
 
@@ -47,7 +47,7 @@ As I worked I decided not to use any metal hardware in the structure of the case
 
 ### Non-permanent fixtures
 
-{{< img align="right" style="margin: 10px 10px 10px 10px" sizes="(min-width: 35em) 300px, 100vw" src="craque-mod-4.png" alt="" >}}
+{{< figure align="right" width=300 src="craque-mod-4.png" alt="" >}}
 
 The front-plates and panels of synths and such things on wooden cases are typically attached with screws, scorned for this project. Interchangability has become an important aspect of my building, so naturally I prefer to support modularity in the design. I knew I'd want to remove and work on the internals from multiple angles and really wanted it to behave like multiple modules bolted onto a metal rail. This solution search met several dead-ends until I happened on these "T-nuts" (apparently for affixing things to climbing walls) that matched the nice black 4M hex-socket carbon steel bolts I had.
 
@@ -57,7 +57,7 @@ Thanks to an array of clamps and blocks of aluminum, I was able to coax these al
 
 ### Modular panel design
 
-{{< img align="right" style="margin: 10px 10px 10px 10px" sizes="(min-width: 35em) 300px, 100vw" src="craque-mod-5.png" alt="" >}}
+{{< figure align="right" width=300 src="craque-mod-5.png" alt="" >}}
 
 At my immediate disposal were long strips of thin aluminum, again left over from other projects. These fit nearly perfectly to fill the spaces left by the NT panel on the mini-crate case. Three of these panels would fit above the NT, and a thinner one below to hold the batteries. Where to mount the different panels in relation to the NT was a decision that involved thinking about how the internal wiring connections would be routed. The arrangement of controls also mattered, it was important that like-controls were grouped and coded for intuitive use. This prescribed which panels went in which location.
 
@@ -65,7 +65,7 @@ At my immediate disposal were long strips of thin aluminum, again left over from
 
 ### Color coded UX components
 
-{{< img align="right" style="margin: 10px 10px 10px 10px" sizes="(min-width: 35em) 300px, 100vw" src="craque-mod-9.png" alt="" >}}
+{{< figure align="right" width=300 src="craque-mod-9.png" alt="" >}}
 
 It's difficult to break down how I made the decisions to use the panel components I did. In a couple of cases the hardware was simply what I had on hand. Someone made a comment that it was Buchla style colors but I didn't intend that, I only knew I wanted a low-count functional color scheme. The main panel was produced by MFOS and looks great but mine are intentionally blank, instead relying on color coding: red washers indicate power and output controls, purple washers are for Voltage Controlled Oscillator (VCO) related things, gold for the Voltage Controlled Filter (VCF). The knobs also match function: purple for the VCO input, blue for the VCF input and Low Frequency Oscillator (LFO) Shaper. The external LFO features are gathered together on the right side of the device to roughly correspond to the LFO source controls, and the VCO features to the left. Multi-position switches (on-off-on) get white caps. All of this was obtained from the nice folks at [Love my Switches](https://lovemyswitches.com) (the same place I extoll in [Knobbybrute](https://www.sounding.com/2020/09/09/knobbybrute/)).
 
@@ -73,7 +73,7 @@ It's difficult to break down how I made the decisions to use the panel component
 
 ### Keep it battery powered
 
-{{< img align="right" style="margin: 10px 10px 10px 10px" sizes="(min-width: 35em) 200px, 100vw" src="craque-mod-8.png" alt="" >}}
+{{< figure align="right" width=200 src="craque-mod-8.png" alt="" >}}
 
 Like many of the MFOS projects, a 9 volt battery is all that's needed. The unit doesn't pull that much power with the line output (15mA, ~33 hours with one 9v) but with speakers attached that consumption climbs depending on the volume setting. Ray warns in the build guide that adding a capacitor at the provided holes in the PCB will provide a nice gain boost that eats up power quickly. Not to mention I wanted to add stuff. My solution? Jeremy Clarkson said it best: MORE POWER! Indeed, a panel could fit two 9v battery holders end-to-end. Wire these bad boys in parallel to provide nearly an amp-hour of power and that is plenty of overhead for additional circuitry and expansion modules, plus ample room for a boost switch. This battery pack becomes a module itself, pulling out from the front for easy reloading.
 
@@ -81,7 +81,7 @@ Like many of the MFOS projects, a 9 volt battery is all that's needed. The unit 
 
 ## Mod Squad
 
-{{< img align="left" style="margin: 10px 10px 10px 10px" sizes="(min-width: 35em) 200px, 100vw" src="craque-mod-3.png" alt="" >}}
+{{< figure align="left" width=200 src="craque-mod-3.png" alt="" >}}
 
 In many cases, I took advantage of the grid of pads/holes included in the corner of the PCB. For instance, pulling the LFO Shaper resistor out to that area makes it easy for repairs. It also made adding the Boost Switch a lot easier.
 
@@ -91,7 +91,7 @@ This is a speaker output gain stage, it will not affect the line output. Yes, Ra
 
 ### Parallel Speakers
 
-{{< img align="right" style="margin: 10px 10px 10px 10px" sizes="(min-width: 35em) 300px, 100vw" src="craque-mod-10.png" alt="" >}}
+{{< figure align="right" width=300 src="craque-mod-10.png" alt="" >}}
 
 The key here is impedance matching. Ray prescribes up to 32&#x2126;, so I had room to combine the kit's nicely wired 2" 1W/16&#x2126; speaker with a spare 1" 1W/8&#x2126; speaker I had in the parts bin. Speakers in parallel have an overall impedance value that is lower than the sum, so even without considering that I was well under the rating for the output of the NT. Mounting them would have to be a creative discovery, it becomes one of the final steps in construction: wooden rods criss-cross to hold them above the floor of the case, doubling as structural elements for keeping the other wood walls in place.
 
@@ -99,7 +99,7 @@ The key here is impedance matching. Ray prescribes up to 32&#x2126;, so I had ro
 
 These are CV and Audio mods respectively, there was no question about adding them. Holes also exist on the PCB precisely for this purpose, and are explained in detail in the NT docs. The VCO input is described as simply a "modulation source", specifically it is exponential modulation that tracks with things like sequencers and what you would normally use with 1v/octave inputs on a regular synth. Keeping in mind this VCO is not meant to be accurate or at all close to tracking anything. The VCF input is an audio input, and since it's possible to turn off the main VCO-to-VCF connection, other audio sources can use it. So can my custom output/effector module.
 
-{{< img align="left" style="margin: 10px 10px 10px 10px" sizes="(min-width: 35em) 300px, 100vw" src="craque-mod-2.png" alt="" >}}
+{{< figure align="left" width=300 src="craque-mod-2.png" alt="" >}}
 
 ### LFO Shaper
 
@@ -111,19 +111,19 @@ While I was planning wiring and soldering the PCB I was extremely careful to not
 
 ## Multi-color LED output/effector
 
-{{< img align="right" style="margin: 10px 10px 10px 10px" sizes="(min-width: 35em) 300px, 100vw" src="craque-mod-11.png" alt="" >}}
+{{< figure align="right" width=300 src="craque-mod-11.png" alt="" >}}
 
 Originally I simply wanted to replace the boring red LED that comes in the kit and have some kind of light display somewhere else that matched with some kind of signal being produced. As with many of these mods, I performed some basic research on the behaviors of devices I was modifying and adding to the circuitry, but not so much on how they may affect the sound. This is in some way the entire point: I openly welcome these kinds of blind discoveries spurred by what might be taken as "error" in a more refined, sacred model. This is one reason why I find this activity enthralling and able to break fixation. Adding the LEDs as I did was a massive reframe of my original intentions, and improvising the design around the balance of the circuitry first with the outcome of the sound second helped me exploit the more solid knowledge I have of DIY electronics to experiment with the way a certain arrangement of known electrical relationships would end up sounding.
 
 LEDs are diodes (allowing electrons to move in only one direction) of a special kind that emit photons when a particular electron movement is required across a band gap of the semiconductor when power is applied, translating to specific wavelengths of light. Only the electrons in a red LED that are excited along red wavelengths (~650nm) are emitted by the diode, extremely efficiently and reliably so. I happened to have a handful of three-pin multi-color LEDs I found in a surplus store, so I looked into how they are used with a driver like a transistor or 555 timer. [Forest Mims's _Optoelectronic Circuits_](http://www.forrestmims.com/engineers_mini_notebook.html) was consulted, plus Ray has a blurb about LED drivers in the Make book as well. I needed this to be simple and installable behind a small panel, so a NPN transistor solution was apt for color control of the LED.
 
-{{< img align="left" style="margin: 10px 10px 10px 10px" sizes="(min-width: 35em) 300px, 100vw" src="craque-mod-12.png" alt="" >}}
+{{< figure align="left" width=300 src="craque-mod-12.png" alt="" >}}
 
 Here I built a test fixture, because I needed to see how practical my transistor driver design was. The plan was that each output would trigger the transistor to light the LED at a rate that matched the voltage envelope of the audio. This is known as Pulse Wave Modulation (PWM) via primitive Analog-to-Digital (A/D) conversion. The 47k&#x2126; resistor used here with a 2N3904 NPN transistor passes voltages around 1v or higher that turn the transistor - ergo the LED - on. When I had it working I also now knew enough to make a shim that would effectively allow me to replace the main red LED with the multi-color one. No transistor is needed here because of the position of this LED in the LFO circuit, it would get PWM for free. At high rates, it would look red just like the one included in the kit. At low rates, all kinds of wonderful cyan-green-blue combinations.
 
 Now comes the surprise. LEDs are often exploited for their diode-ness first and their light-ness second. For example I have a limiter/compression module that uses LEDs as an active part of the circuit. There are "ladder filters" out there that use them this way, a recent chaos module I built uses an internal LED as a source of uncertainty. I shouldn't have been that surprised when I got the NT to operational mode and began experimenting that the LEDs and their drivers connected with the outputs I had chosen were affecting the nature of the sound. I didn't mind at all. This is what circuit bending is all about!
 
-{{< img align="right" style="margin: 10px 10px 10px 10px" sizes="(min-width: 35em) 300px, 100vw" src="craque-mod-6.png" alt="" >}}
+{{< figure align="right" width=300 src="craque-mod-6.png" alt="" >}}
 
 What I had planned was a simple way to break out the internal signals of the NT. What I got was a beast of a different shade: an output module that could not only be patched to the inputs, not only be patched efficiently to external things, but could also significantly change the sound of the NT in a performable way without being patched at all.
 

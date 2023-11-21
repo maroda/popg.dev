@@ -43,7 +43,7 @@ A big reason I was so attracted to opera and musical theater as opposed to stage
 
 I am horrible at composing music and writing songs, the albums I have online are testaments of off-centered weirdness that appear to a unique and select few. But I _thrill_ at improvisation and extemporaneous music making. I am a singer, an interpreter, an improviser... I am not a composer, not a draftsman, not an orchestrator arranger. I live in the moment way beyond the capacity of most humans, and I have recognized that for a long time. It wasn't until now that I have connected it, and my learning disability, to the trauma I suffered.
 
-{{< img align="right" style="margin: 10px 10px 10px 10px" sizes="(min-width: 35em) 500px, 100vw" src="intuitioneng_v2.png" alt="" >}}
+{{< figure align="right" width=500 src="intuitioneng_v2.png" alt="" >}}
 
 In my job, it occurs to me that I am more than merely an operator, more than just someone to run observability crossed with someone to contribute to strategy, more than reliability engineering (because guess what, I suck at being a programmer, too).
 

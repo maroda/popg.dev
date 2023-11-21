@@ -20,7 +20,7 @@ It's 909 day so it's time for a synth post! Though not a drum machine, an equall
 
 This horrible idea.
 
-{{< img align="right" style="margin: 10px 10px 10px 10px" sizes="(min-width: 35em) 300px, 100vw" src="B_stickyfingers.png" alt="Soft-Touch knob sticking to my finger." >}}
+{{< figure align="right" width=300 src="B_stickyfingers.png" alt="Soft-Touch knob sticking to my finger." >}}
 
 If you're unfamiliar, "soft-touch" is a coating on plastic parts that feels like a thick setting of rubber with a squishy sort of soft matte finish to it. I recently learned that the interiors of Ferrari supercars were outfitted with the material and apparently companies exist that specialize in its maintenance because of this.
 
@@ -37,13 +37,13 @@ That's what I did, although ultimately not with rubber. With machined aluminum.
 
 ## MicroBrute
 
-{{< img align="left" style="margin: 10px 10px 10px 10px" sizes="(min-width: 35em) 200px, 100vw" src="A_softtouches.png" alt="The Arturia MicroBrute" >}}
+{{< figure align="left" width=200 src="A_softtouches.png" alt="The Arturia MicroBrute" >}}
 
 [_This instrument from Arturia_](https://en.wikipedia.org/wiki/Arturia_MiniBrute#MicroBrute) interested me when it was released because of its special onboard filter based on the original [_Steiner-Parker Synthacon_](https://en.wikipedia.org/wiki/Steiner-Parker_Synthacon), a sound I liked and didn't have anywhere in my rig. Plus this little 1.5 octave triple VCO powerhouse is also a semi-modular, with multiple I/O that can be used onboard or externally. I use it a great deal with interfacing modular synth gear.
 
 Unfortunately, several UX parts are coated in soft-touch rubber: the knobs, two switches, the slider caps, the expression wheels. As this stuff ages it loses the magical state it gained during a chemical process called [_vulcanization_](https://en.wikipedia.org/wiki/Vulcanization). This makes rubber harder by connecting molecular strands together. So, as the strands decompose, the rubber reverts closer and closer to the natural state of being sticky.
 
-{{< img align="right" style="margin: 10px 10px 10px 10px" sizes="(min-width: 35em) 150px, 50vm" src="C_modwheel.png" alt="" >}}
+{{< figure align="right" width=150 src="C_modwheel.png" alt="" >}}
 
 Cleaning wouldn't be that huge of a chore... however, from personal experience I can tell you it is a slippery slope. Depending on the quality of the rubber and the amount of decay it has suffered, you may "clean" most of the rubber clean away.
 
@@ -56,8 +56,8 @@ I could find replacements easily! I thought. That didn't turn out to be the case
 
 There are 20 soft-touch knobs on a MicroBrute, which I noticed were something called "D-shaft": an amount of pressure is required to keep the knob on a shaft shaped like the capital letter D. They can be hard to remove but are typically cheaper to manufacture  (hm, I sense a theme).
 
-{{< img align="left" style="margin: 10px 10px 10px 10px" sizes="(min-width: 35em) 150px, 50vm" src="D_origD.png" alt="" >}}
-{{< img align="left" style="margin: 10px 10px 10px 10px" sizes="(min-width: 35em) 150px, 50vm" src="E_origP.png" alt="" >}}
+{{< figure align="left" width=150 src="D_origD.png" alt="" >}}
+{{< figure align="left" widthi=150 src="E_origP.png" alt="" >}}
 
 What I failed to notice at first was the orientation of the D.
 
@@ -65,8 +65,8 @@ You see, I knew of a local US modular synth parts outfit with nice slider cap re
 
 <br clear>
 
-{{< img align="right" style="margin: 10px 10px 10px 10px" sizes="(min-width: 35em) 150px, 50vm" src="F_oopsD.png" alt="" >}}
-{{< img align="right" style="margin: 10px 10px 10px 10px" sizes="(min-width: 35em) 150px, 50vm" src="G_oopsP.png" alt="" >}}
+{{< figure align="right" width=150 src="F_oopsD.png" alt="" >}}
+{{< figure align="right" width=150 src="G_oopsP.png" alt="" >}}
 
 
 <br clear>
@@ -85,7 +85,7 @@ It got interesting when I noticed I would have to mix knurled shaft knobs with s
 
 ## Eureka!
 
-{{< img align="right" style="margin: 10px 10px 10px 10px" sizes="(min-width: 35em) 200px, 100vw" src="H_adapt.png" alt="" >}}
+{{< figure align="right" width=200 src="H_adapt.png" alt="" >}}
 
 Enter the [**brass adapter**](https://lovemyswitches.com/potentiometer-adapter-sleeve-6-0mm-knurled-shaft-to-1-4-shaft-adapter/), which allows using a set screw knob on most non-smooth shafts. I ordered them for the Noise Toaster, so I decided to try them on the MicroBrute. Lo and behold, they worked! Instead of empty space behind the adapter in the usual 180&deg; D-shaft shape that would not guarantee a snug fit (and the site does warn about this), there was half a shaft to support the force in front of the adapter. You couldn't tell there was anything odd about the knob at all.
 
@@ -96,7 +96,7 @@ I was going to take another gamble though, because I noticed two were different 
 
 ## The Magpie
 
-{{< img align="left" style="margin: 10px 10px 10px 10px" sizes="(min-width: 35em) 300px, 100vw" src="I_skirt.png" alt="" >}}
+{{< figure align="left" width=300 src="I_skirt.png" alt="" >}}
 
 Soon I was in possession of 25 [teal colored anodized aluminum knobs](https://lovemyswitches.com/anodized-aluminum-knob-the-magpie-1-4-smooth-shaft-12-5mm-od/) and 25 brass adapters. Time to clean and replace, which I did one day immediately after a draining week of job interviewing. It was a meditative process that rejuvenated both myself and the instrument.
 
@@ -108,16 +108,16 @@ Many thanks to [**Lawrence and Love My Switches**](https://lovemyswitches.com/ab
 
 Now I just have to find some crystal clear modulation wheels...
 
-{{< img align="center" style="margin: 0px 0px 0px 0px" sizes="(min-width: 35em) 800px, 100vw" src="M_mbTop.png" alt="" >}}
+{{< figure align="center" width=800 src="M_mbTop.png" alt="" >}}
 <br>
-{{< img align="center" style="margin: 0px 0px 0px 0px" sizes="(min-width: 35em) 800px, 100vw" src="J_mbDone.png" alt="" >}}
+{{< figure align="center" width=800 src="J_mbDone.png" alt="" >}}
 <br>
-{{< img align="center" style="margin: 0px 0px 0px 0px" sizes="(min-width: 35em) 800px, 100vw" src="K_mbLeft.png" alt="" >}}
+{{< figure align="center" width=800 src="K_mbLeft.png" alt="" >}}
 <br>
-{{< img align="center" style="margin: 0px 0px 0px 0px" sizes="(min-width: 35em) 800px, 100vw" src="L_mbRight.png" alt="" >}}
+{{< figure align="center" width=800 src="L_mbRight.png" alt="" >}}
 <br>
-{{< img align="center" style="margin: 0px 0px 0px 0px" sizes="(min-width: 35em) 800px, 100vw" src="O_mbPlaced.png" alt="" >}}
+{{< figure align="center" width=800 src="O_mbPlaced.png" alt="" >}}
 <br>
-{{< img align="center" style="margin: 0px 0px 0px 0px" sizes="(min-width: 35em) 800px, 100vw" src="P_deskFull.png" alt="" >}}
+{{< figure align="center" width=800 src="P_deskFull.png" alt="" >}}
 <br>
 

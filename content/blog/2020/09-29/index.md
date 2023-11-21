@@ -16,7 +16,7 @@ tags:
   - chaosengineering
 ---
 
-{{< img align="right" style="margin: 10px 10px 10px 10px" sizes="(min-width: 35em) 300px, 100vw" src="lp_die.jpg" alt="Complexity Die" >}}
+{{< figure align="right" width=300 src="lp_die.jpg" alt="Complexity Die" >}}
 
 Consider a jazz band you’ve heard or seen live, or really any type of music where improvisation plays an important role. Great bands work together effortlessly, and when things go sideways or “wrong notes” are played, they quickly adapt to the changing conditions in order to keep the music going. This _emergent complex system_ manifests itself in the awesome jams you hear.
 

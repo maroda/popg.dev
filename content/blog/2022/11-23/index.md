@@ -54,7 +54,8 @@ What had been confusing before now made perfect sense: **Blame is the result of 
 
 So now, I describe Blame as a fleeting view of the world that can immediately be turned into good questions of accountability and context. If emotions leading to Blame are experienced during an incident, they can be treated as a doorway to knowledge. When you feel Blame rise, acknowledge it as a sort of divining rod that locates areas to ask more questions. This is what you do when you think you’ve found a “root cause”: don’t stop, because that’s only the beginning, not the root of anything.
 
-{{< img align="right" style="margin: 10px 10px 10px 10px" sizes="(min-width: 35em) 500px, 100vw" src="blamelessness-empty.png" alt="Blamelessness is not about avoiding Blame, it is about being empty of it." >}}
+{{< figure align="right" width=500 src="blamelessness-empty.png" alt="Blamelessness is not about avoiding Blame, it is about being empty of it." >}}
+
 I have always found the discipline of Resilience Engineering akin to Eastern Philosophy. It is systems thinking. It is diversity and complexity, but also indescribable. It is something a system does, not something it is. There is a definitive Tao-ness to Resilience. In my mind, it is the _empty block of wood_. What arises from the wood depends entirely on the context and emergence of the system, what we put into it.
 
 We expect natural human emotions to trigger Blame as a reaction. But then we move through it, a thin sheen that when pulled back and passed aside, reveals the intricate detail of accountability. We can listen more closely in the silence left behind.
