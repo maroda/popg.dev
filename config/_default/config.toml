@@ -2,20 +2,17 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/getting-started/
 
-# theme = "blowfish"
-# baseURL = "https://your_domain.com/"
-defaultContentLanguage = "en"
+baseURL                 = "https://popg.dev/"
+theme                   = "blowfish"
+defaultContentLanguage  = "en"
+pluralizeListTitles     = false
+enableRobotsTXT         = true
+paginate                = 10
+summaryLength           = 0
+buildDrafts             = false
+buildFuture             = false
 
-# pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
-
-enableRobotsTXT = true
-paginate = 10
-summaryLength = 0
-
-buildDrafts = false
-buildFuture = false
-
-# googleAnalytics = "G-XXXXXXXXX"
+# googleAnalytics = "G-1LS1VHM8Y9"
 
 [imaging]
   anchor = 'Center'

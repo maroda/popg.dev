@@ -35,7 +35,7 @@ References for a piece I wrote that was adapted for **The New Stack** (_Dec 16, 
 * **Shorrock, Steven** (2016). _The Varieties of Human Work._ <br>https://humanisticsystems.com/2016/12/05/the-varieties-of-human-work/
 * **Woods, DD.** (2015). _Four concepts for resilience and the implications for the future of resilience engineering._ Reliability Engineering and System Safety (2015). <br>http://dx.doi.org/10.1016/j.ress.2015.03.018
 
-#### Mendonça
+### Mendonça
 
 - Cognition in Jazz Improvisation: An Exploratory Study
 <br><http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.59.7096>
@@ -46,27 +46,27 @@ References for a piece I wrote that was adapted for **The New Stack** (_Dec 16, 
 - Factors underlying organizational resilience: The case of power restoration NYC 911
 <br><https://doi.org/10.1016/j.ress.2015.03.017>
 
-#### Canonne
+### Canonne
 
 - Cognition and Segmentation In Collective Free Improvisation: An Exploratory Study
 <br><https://doi.org/10.13140/2.1.3534.9445>
 
-#### Pressing
+### Pressing
 
 - Cognitive processes in improvisation
 <br><https://doi.org/10.1016/S0166-4115(08)62358-4>
 
-#### Page
+### Page
 
 - Chapter on Improvisation published in _Power of Intuition_
 
-#### Weick
+### Weick
 
 - Tool retention and fatalities in wildland fire settings: conceptualizing the naturalistic
 <br>published in: Linking Expertise and Naturalistic Decision Making (Page, ed)
 <br>Referenced by Page in _Power of Intuition_
 
-#### Hamzeh
+### Hamzeh
 
 - Investigating the Practice of Improvisation in Construction
 <br><https://doi.org/10.1061/(ASCE)ME.1943-5479.0000652>
@@ -74,7 +74,7 @@ References for a piece I wrote that was adapted for **The New Stack** (_Dec 16, 
 - Understanding improvisation in construction through antecedents, behaviours and consequences
 <br><https://doi.org/10.1080/01446193.2018.1497189>
 
-#### Cunha
+### Cunha
 
 - Organizational Improvisation: what, when, how and why
 <br><https://doi.org/10.1111/1468-2370.00017>
@@ -90,17 +90,17 @@ References for a piece I wrote that was adapted for **The New Stack** (_Dec 16, 
 
 - Time and Organizational Improvisation
 
-#### Kamoche / Cunha
+### Kamoche / Cunha
 
 - Towards a Theory of Organizational Improvisation: Looking Beyond the Jazz Metaphor
 <br><https://doi.org/10.1046/j.1467-6486.2003.00410.x>
 
-#### Grøtan
+### Grøtan
 
 - Resilience, Adaptation and Improvisation – increasing resilience by organising for successful improvisation
 <br><https://www.researchgate.net/publication/228896677_Resilience_Adaptation_and_Improvisation-increasing_resilience_by_organising_for_successful_improvisation>
 
-#### Verna
+### Verna
 
 - Lisp, Jazz, Aikido – Three Expressions of a Single Essence
 <br><https://doi.org/10.22152/programming-journal.org/2018/2/10>
